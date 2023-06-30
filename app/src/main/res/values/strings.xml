@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Sprint Módulo 4</string>
+    <string name="person_name">Elon Musk</string>
+    <string name="person_characteristics">Empresario, inversor</string>
+    <string name="experience_years">Años de experiencia: 25 años</string>
+    <string name="field">Área: tecnología</string>
+    <string name="about">About Elon Musk</string>
+
+</resources>
